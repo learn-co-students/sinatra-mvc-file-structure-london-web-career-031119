@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Model	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/app/models/model.rb	/^class Model$/;"	class	line:1
+ApplicationController	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/app/controllers/application_controller.rb	/^class ApplicationController < Sinatra::Base$/;"	class	line:1
+app	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/spec/spec_helper.rb	/^def app$/;"	method	line:14
+Sinatra MVC File Structure	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^# Sinatra MVC File Structure$/;"	function	line:1
+Overview	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^## Overview$/;"	function	line:3
+Objectives	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:7
+Keeping Code Organized	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^## Keeping Code Organized$/;"	function	line:14
+What does a Sinatra MVC File Structure Look Like?	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^## What does a Sinatra MVC File Structure Look Like?$/;"	function	line:28
+`Gemfile`	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^### `Gemfile`$/;"	function	line:56
+`app` directory	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^### `app` directory$/;"	function	line:67
+`models` directory	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^#### `models` directory$/;"	function	line:72
+`controllers` directory	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^#### `controllers` directory$/;"	function	line:88
+`views` directory	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^#### `views` directory$/;"	function	line:124
+`config.ru` file	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^### `config.ru` file$/;"	function	line:138
+`config` directory	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^### `config` directory$/;"	function	line:152
+`public` directory	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^### `public` directory$/;"	function	line:161
+`spec` directory	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/README.md	/^### `spec` directory$/;"	function	line:167
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/sinatra-mvc-file-structure-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
